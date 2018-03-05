@@ -64,6 +64,10 @@ Aquellos que nos ayudarán a descubrir sobre los objetivos de la investigación,
 * **Sintetizar los findings** 
         En base a todas las recomendaciones recibidas luego del Kick - off aplicarlas.
 
+## DEFINIENDO EL PRODUCTO
+
+Aplicaicon nativa y web porque queremos acceder a todos los sitemas operativos y que las personas puedan informarse de que trata el producto.
+
 
 
 
