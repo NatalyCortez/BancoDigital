@@ -1,6 +1,16 @@
 # BANCO DIGITAL PARA MILLENNIALS
 
-## BUSINESS MODEL CANVAS 
+### Banco del Pais
+- Es uno de los bancos más reconocido e importante, es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. 
+
+### Objetivo 
+- Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Se han propuesto crear un banco 100% digital dirigido para millenials.
+
+### Requerimientos
+- Identificar quiénes son los stakeholders de tu proyecto
+- Planear una reunión de kick - off detallando
+    * Quiénes deberían estar presentes
+    * Qué les preguntarías a los presentes 
 
 ## STAKEHOLDERS DEL PROYECTO
 
@@ -18,6 +28,9 @@
 * Product Manager
 * Gerente de operaciones.
 * Gerente Legal
+* UX Designer
+* Front-End
+* Back-End
 
 ## KICK - OFF
 (Reunión de lanzamiento de la investigación)
@@ -52,6 +65,8 @@ Aquellos que nos ayudarán a descubrir sobre los objetivos de la investigación,
 * ¿Qué medios utilizaremos para llegar a nuestro público objetivo?
 * ¿Qué estrategias de marketing podríamos utilizar para lograr los objetivos del negocio?
 
+## BUSINESS MODEL CANVAS 
+![card](assets/images/bmc.png)
 ## RESEARCH PLAN
 * **Revisar información obtenida en base a las preguntas** 
 	Verificar si la información con la que contamos es suficiente o debemos indagar más.
@@ -66,11 +81,40 @@ Aquellos que nos ayudarán a descubrir sobre los objetivos de la investigación,
 
 ## DEFINIENDO EL PRODUCTO
 
-Aplicaicon nativa y web porque queremos acceder a todos los sitemas operativos y que las personas puedan informarse de que trata el producto.
+## Guia de entrevistas para usuarios
 
+## User Persona
+Definiendo al User Persona
 
+Nombre: Sora
+Edad: 21 años
+ocupacion: Estudiante de arte
+Estado Civil: Soltera
+Distrito: La Molina - Lima
 
+Frase: No tengo necesidad de poner mi dinero que gano con pequeñas exposiciones de arte en un banco, ya que es absurdo. Los bancos solo nos hacen pasar malos momentos.
 
+Biografia: Estudiante de arte  y estudia fotografia en las noches, algunos fines de semanas expone sus obras en el garaje de la casa de sus padre, el dinero que gana lo ocupa en viajar a multiples lugares con tal de conseguir inspiracion o las mejores fotografias.
 
+## Analisis en base a las respuestas optenidas
+ Segun los datos recolectados pudimos obtener informacion y ordenarlos según categorias.
+ 
+ ![card](assets/images/1.JPG)
+ 
+## Que Ofrece nuestro producto
+- Romper con la idea de que el banco es un entorno aburrido que nos causa malestar, es por eso que reinventanto la estructura original nosotros ofrecemos una tematica distinta y unica con tal de que el usuario se vea atraido por una menra distinta a la idea de un banco.
+- Cubrir las necesidades basicas de los usuarios que son, Transferencias, Consultas, pagos de Servicios (servicios- instituciones - recargas celular- pago de celulares)
+- Tambien ofrecemos comunicarte con un encargado de nuestro banco a traves de videollamadas, dandole la informacion detallada de este encargado para que pueda verificar si realmente se comunica con alguien de nuestra institucion y no sufra ningun tipo de estafa.
+- Servicio de Ubicacion que le permitira saber los cajeros mas proximos de su paradero(lugar en el que se encuentra).
+- Sistema de objetivos mediante motivaciones.
+
+## Prototipo
+- Paper Prototype
+
+![prototipo](assets/images/prot.JPG)
+
+## Miembros
+[Nataly Cortes](https://github.com/NatalyCortez)
+[Ambar Ampudia](https://github.com/ambar13)
 
 
