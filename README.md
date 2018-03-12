@@ -66,7 +66,7 @@ Aquellos que nos ayudarán a descubrir sobre los objetivos de la investigación,
 * ¿Qué estrategias de marketing podríamos utilizar para lograr los objetivos del negocio?
 
 ## BUSINESS MODEL CANVAS 
-![card](assets/images/bmc.png)
+![card](assets/images/bmc.PNG)
 ## RESEARCH PLAN
 * **Revisar información obtenida en base a las preguntas** 
 	Verificar si la información con la que contamos es suficiente o debemos indagar más.
@@ -82,6 +82,7 @@ Aquellos que nos ayudarán a descubrir sobre los objetivos de la investigación,
 ## DEFINIENDO EL PRODUCTO
 
 ## Guia de entrevistas para usuarios
+[Entrevistas](https://docs.google.com/document/d/1xnwaWHZH0gIfjrft_np9M0B1JAwlszksYUuAp5mlVWo/edit?ts=5a99cd17#heading=h.mhocq9xmh2n8)
 
 ## User Persona
 Definiendo al User Persona
@@ -99,7 +100,7 @@ Biografia: Estudiante de arte  y estudia fotografia en las noches, algunos fines
 ## Analisis en base a las respuestas optenidas
  Segun los datos recolectados pudimos obtener informacion y ordenarlos según categorias.
  
- ![card](assets/images/1.JPG)
+ ![card](assets/images/1.jpg)
  
 ## Que Ofrece nuestro producto
 - Romper con la idea de que el banco es un entorno aburrido que nos causa malestar, es por eso que reinventanto la estructura original nosotros ofrecemos una tematica distinta y unica con tal de que el usuario se vea atraido por una menra distinta a la idea de un banco.
@@ -111,10 +112,10 @@ Biografia: Estudiante de arte  y estudia fotografia en las noches, algunos fines
 ## Prototipo
 - Paper Prototype
 
-![prototipo](assets/images/prot.JPG)
+![prototipo](assets/images/prot.jpg)
 
 ## Miembros
-[Nataly Cortes](https://github.com/NatalyCortez)
-[Ambar Ampudia](https://github.com/ambar13)
+- [Nataly Cortes](https://github.com/NatalyCortez)
+- [Ambar Ampudia](https://github.com/ambar13)
 
 
