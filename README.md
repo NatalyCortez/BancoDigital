@@ -1,7 +1,7 @@
 # BANCO DIGITAL PARA MILLENNIALS
 Banco 100% digital, siempre tenemos en mente que un banco debe ser aburrido, NJOY cambiará tu perspectiva, no más colas, no más pérdida de tiempo. NJOY donde un banco nunca más será aburrido.
 
-![prototipo](assets/images/Njoy Portada.PNG)
+![prototipo](assets/Njoy Portada.PNG)
 
 ### Banco del Pais
 - Es uno de los bancos más reconocido e importante, es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. 
