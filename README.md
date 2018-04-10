@@ -1,5 +1,5 @@
 # BANCO DIGITAL PARA MILLENNIALS
-Banco 100% digital, siempre tenemos en mente que un banco debe ser aburrido, NJOY cambiará tu perspectiva, no más colas, no más pérdida de tiempo. NJOY donde un banco nunca más será aburrido.
+Banco 100% digital, siempre tenemos en mente que un banco debe ser aburrido, NJOY cambiará tu perspectiva, no más colas, no más pérdida de tiempo, y si eres un cliente activo en la banca NJOY te premia con regalos. Estar en tu banco será como jugar.
 ![portada](https://user-images.githubusercontent.com/32307145/38425205-d88b030c-3978-11e8-85ab-b0f866f53dcc.png)
 
 ### Desarrollado para
@@ -89,7 +89,7 @@ Aquellos que nos ayudarán a descubrir sobre los objetivos de la investigación,
 ## DEFINIENDO EL PRODUCTO
 
 ## Guia de entrevistas para usuarios
-[Entrevistas](https://docs.google.com/document/d/1xnwaWHZH0gIfjrft_np9M0B1JAwlszksYUuAp5mlVWo/edit?ts=5a99cd17#heading=h.mhocq9xmh2n8)
+[Entrevistas](https://docs.google.com/document/d/1xnwaWHZH0gIfjrft_np9M0B1JAwlszksYUuAp5mlVWo/edit?usp=sharing)
 
 ## User Persona
 Definiendo al User Persona
