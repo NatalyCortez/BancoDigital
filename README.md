@@ -1,6 +1,7 @@
 # BANCO DIGITAL PARA MILLENNIALS
 Banco 100% digital, siempre tenemos en mente que un banco debe ser aburrido, NJOY cambiará tu perspectiva, no más colas, no más pérdida de tiempo, y si eres un cliente activo en la banca NJOY te premia con regalos. Estar en tu banco será como jugar.
-![portada]![njoy](https://user-images.githubusercontent.com/32307227/41189517-bfd5f90e-6b94-11e8-8ff4-878710b006ec.jpg)
+
+![njoy](https://user-images.githubusercontent.com/32307227/41189517-bfd5f90e-6b94-11e8-8ff4-878710b006ec.jpg)
 
 ### Desarrollado para
 [Laboratoria](http://www.laboratoria.la/)
